@@ -1,0 +1,3 @@
+Hello team, please contact john.doe@example.com or jane_doe123@company.org.
+Also ignore this: test@invalid, @wrong.email, info@site.
+Backup emails: support@helpdesk.com, contact@domain.co.in
